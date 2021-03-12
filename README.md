@@ -1,11 +1,3 @@
-## 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐊𝐚𝐦𝐢
-https://youtube.com/channel/UCHK9gIokua2zkYKYTbqAwMQ
-
-## 𝐁𝐚𝐧𝐭𝐮 𝐓𝐞𝐦𝐛𝐮𝐬 𝟏𝐫𝐛 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐛𝐮𝐥𝐚𝐧 𝐢𝐧𝐢
-
-𝐓𝐡𝐚𝐧𝐤𝐬 𝐘𝐚𝐧𝐠 𝐒𝐮𝐝𝐚𝐡 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐌𝐫𝐊𝐢𝐧𝐠
-𝐒𝐞𝐦𝐨𝐠𝐚 𝐒𝐞𝐡𝐚𝐭 𝐒𝐞𝐥𝐚𝐥𝐮
-
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 | Sticker Creator |                Feature           |
@@ -111,8 +103,8 @@ https://youtube.com/channel/UCHK9gIokua2zkYKYTbqAwMQ
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/6285735042878)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Saweria :-`]
+* [`Dana : 085735042878`]
+* [`Pulsa : 085735042878`]
