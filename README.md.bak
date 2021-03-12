@@ -1,12 +1,30 @@
-## 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐊𝐚𝐦𝐢
-https://youtube.com/channel/UCHK9gIokua2zkYKYTbqAwMQ
 
-## 𝐁𝐚𝐧𝐭𝐮 𝐓𝐞𝐦𝐛𝐮𝐬 𝟏𝐫𝐛 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐛𝐮𝐥𝐚𝐧 𝐢𝐧𝐢
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbotwasapv4%2Fbotwasapv4&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+</p>
 
-𝐓𝐡𝐚𝐧𝐤𝐬 𝐘𝐚𝐧𝐠 𝐒𝐮𝐝𝐚𝐡 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐌𝐫𝐊𝐢𝐧𝐠
-𝐒𝐞𝐦𝐨𝐠𝐚 𝐒𝐞𝐡𝐚𝐭 𝐒𝐞𝐥𝐚𝐥𝐮
+## Clone this project
 
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+```bash
+> git clone https://github.com/affisjunianto/botwasapv4
+```
+
+## Install the dependencies:
+Before running the below command, make sure you're in the project directory that
+you've just cloned!!
+
+```bash
+> cd botwasapv4
+> bash install.sh
+```
+
+### Usage
+```bash
+> node index.js
+```
+
+## Features
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
